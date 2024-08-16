@@ -1,0 +1,30 @@
+.btn {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: salmon;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(13, 109, 183);
+    border-image: initial;
+    text-transform: uppercase;
+    background: rgb(255, 255, 255);
+
+}
+
+
+
+.java{
+    background-color: rgb(203, 203, 218);
+}
+
+.mcqs{
+    font-size: 18px;
+
+}
+
+.submit-btn{
+    background-color: coral;
+    color: green;
+    
+}
+
